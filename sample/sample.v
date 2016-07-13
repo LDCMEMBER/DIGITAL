@@ -20,4 +20,6 @@ initial begin
   #100; rst <= 1'b1;
 end
 
+// コメント
+
 endmodule;
