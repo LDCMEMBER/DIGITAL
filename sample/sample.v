@@ -20,4 +20,8 @@ initial begin
   #100; rst <= 1'b1;
 end
 
+initial begin
+  $dumpVars;
+end
+
 endmodule;
