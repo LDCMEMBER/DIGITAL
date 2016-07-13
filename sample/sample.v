@@ -27,5 +27,6 @@ initial begin
 end
 
 // コメント
+// コメント追加２個目
 
 endmodule;
